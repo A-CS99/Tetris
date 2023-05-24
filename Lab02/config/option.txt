@@ -1,0 +1,30 @@
+[
+    {
+        "type":0,
+        "color":"cyan"
+    },
+    {
+        "type":1,
+        "color":"yellow"
+    },
+    {
+        "type":2,
+        "color":"blue"
+    },
+    {
+        "type":3,
+        "color":"orange"
+    },
+    {
+        "type":4,
+        "color":"green"
+    },
+    {
+        "type":5,
+        "color":"purple"
+    },
+    {
+        "type":6,
+        "color":"red"
+    }
+]
